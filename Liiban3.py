@@ -381,7 +381,7 @@ class Main:
 if len(sys.argv) == 2:
 	if sys.argv[1] == "--info":
 		print("")
-		print("\n [*] Author    :  ")LIIBAN
+		print("\n [*] Author    :  ")
 		print(" [*] Team      :  \n")
 		print(" [ Sosial Medi  ] \n")
 		print(" [*] Facebook  : https://facebook.com/ ")
